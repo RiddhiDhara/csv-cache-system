@@ -1,0 +1,14 @@
+{
+    "num_partitions": 4,
+    "partition_strategy": "md5",
+    "partition_key_columns": [
+        "PassengerId"
+    ],
+    "partition_folder_path": "C:\\Users\\Riddhi Dhara\\Desktop\\all coding files\\My pathways\\Projects\\Project on Sparks & Hadoop\\Project 2 - CSV caching system\\csv cache system\\data\\processed\\partitions",
+    "partition_files": [
+        "part_0.csv",
+        "part_1.csv",
+        "part_2.csv",
+        "part_3.csv"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "decision": "incremental_update",
+    "actual_execution": "incremental_update",
+    "rows_percentage_change": 0.0,
+    "changed_rows": 0,
+    "total_rows": 891,
+    "execution_time": 0.07600069046020508,
+    "threshold_used": 0.6,
+    "timestamp": "2026-05-11T21:14:08.189482"
+}

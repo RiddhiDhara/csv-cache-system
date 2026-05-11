@@ -1,0 +1,64 @@
+{
+    "history": [
+        {
+            "decision": "incremental_update",
+            "actual_execution": "incremental_update",
+            "rows_percentage_change": 0.001122334455667789,
+            "changed_rows": 1,
+            "total_rows": 891,
+            "execution_time": 0.020493268966674805,
+            "threshold_used": 0.45,
+            "timestamp": "2026-05-10T17:42:21.842537"
+        },
+        {
+            "decision": "incremental_update",
+            "actual_execution": "incremental_update",
+            "rows_percentage_change": 0.003367003367003367,
+            "changed_rows": 3,
+            "total_rows": 891,
+            "execution_time": 0.11895585060119629,
+            "threshold_used": 0.5,
+            "timestamp": "2026-05-10T17:44:25.395040"
+        },
+        {
+            "decision": "incremental_update",
+            "actual_execution": "incremental_update",
+            "rows_percentage_change": 0.003367003367003367,
+            "changed_rows": 3,
+            "total_rows": 891,
+            "execution_time": 0.0846414566040039,
+            "threshold_used": 0.45,
+            "timestamp": "2026-05-10T18:01:36.709815"
+        },
+        {
+            "decision": "incremental_update",
+            "actual_execution": "incremental_update",
+            "rows_percentage_change": 0.0,
+            "changed_rows": 0,
+            "total_rows": 891,
+            "execution_time": 0.004372119903564453,
+            "threshold_used": 0.5,
+            "timestamp": "2026-05-11T20:04:38.591612"
+        },
+        {
+            "decision": "incremental_update",
+            "actual_execution": "incremental_update",
+            "rows_percentage_change": 0.005611672278338945,
+            "changed_rows": 5,
+            "total_rows": 891,
+            "execution_time": 0.09477877616882324,
+            "threshold_used": 0.55,
+            "timestamp": "2026-05-11T20:06:30.751999"
+        },
+        {
+            "decision": "incremental_update",
+            "actual_execution": "incremental_update",
+            "rows_percentage_change": 0.0,
+            "changed_rows": 0,
+            "total_rows": 891,
+            "execution_time": 0.07600069046020508,
+            "threshold_used": 0.6,
+            "timestamp": "2026-05-11T21:14:08.189482"
+        }
+    ]
+}
